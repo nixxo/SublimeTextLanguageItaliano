@@ -1,0 +1,49 @@
+Version 5.0, 10/02/2016:
+- Major update with hundreds of new words and fixes
+- New words, including "salviettina"
+- Remove wrong words, including "scndendo" and "qual'è"
+- Update version information
+
+Version 4.2, 25/09/2015:
+- Update version information
+- New words, including "immantinente"
+- Remove wrong words, including "lablanche"
+- New synonyms, including "scelta": "alternativa"
+- Remove wrong synonyms, including "alternativa": decisione
+
+Version 4.1, 20/09/2014:
+- Fix Hunspell error: line 1784: multiple definitions of an affix flag
+- Update version information
+- New words, including "carpaccio"
+- Remove wrong words, including "pichi"
+- New synonyms, including "scelta": "assortimento" or "selezione"
+
+Version 4.0, 27/09/2013:
+- Convert all files to UTF-8
+- New words, including "fascicolazione"
+- Update URL and version information
+
+Version 3.4.0, 05/09/2013:
+- Minor fixes, including "uveite", "riassemblare", "lavorativamente"
+- Update URL and version information
+
+Version 3.3.3, 03/04/2012:
+- Minor fixes.
+- Changed contact e-mail address.
+- Updated README files.
+
+Version 3.3.2, 25/02/2012:
+- Minor fixes.
+
+Version 3.3.1, 24/03/2011:
+- Refactored and rewritten README files and copyright notices.
+- it_IT.dic: Removed Roman numerals and meaningless words.
+- it_IT.dic: A few corrections and additions.
+
+Version 3.3, 21/09/2010:
+- First forked version, included in OpenOffice.org 3.3.0.
+- it_IT.dic: Handle expressions such as bell'..., dell'... properly.
+- it_IT.dic: Several corrections, additions and bugfixes.
+- th_it_IT_v2.dat: Removed dozens of typos in adjective descriptions.
+- th_it_IT_v2.dat: Several corrections, additions and bugfixes.
+- th_it_IT_v2.idx: Regenerated.
